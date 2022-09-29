@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awish
+- 👋 Hi, I’m @Awish [Tushar]
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Data Science IBM Courses
 - 💞️ I’m looking to collaborate on ...
